@@ -3,44 +3,18 @@
 <!-- Banner Image/Header -->
 ![Header](https://your-image-url.com/banner-image.png)
 
-# Greetings, fellow tech explorer! 👋 I'm [Your Name]
+# Greetings, fellow tech explorer! 👋 I'm h.m.badhon.
 
-AI and Robotics Engineer | Bringing Dreams to Life through Code and Machines
+Trainee Robotics Engineer | Bringing Dreams to Life through Code and Machines
 
 ## 🚀 About Me
 
-A technophile with a passion for AI and Robotics, I'm on a mission to revolutionize the future through innovation and automation.
+As a technophile with a passion for AI and Robotics, I'm on a mission to revolutionize the future through innovation and automation.
 
 - 🧠 Creating intelligent algorithms that understand and learn from data.
 - 🤖 Designing and building robots that bridge the digital and physical realms.
-- 🎓 Master's in Robotics Engineering with a focus on Machine Learning.
+- 🎓 B.Sc's in EEE with a focus on Robotics, Machine Learning, AI.
 
-## 🔧 Tech Stack
-
-![Tech Stack](https://your-image-url.com/tech-stack.png)
-
-## 🤖 Robotics Projects
-
-#### Project 1: [Project Name](Project URL)
-Description of your robotics project. Key features, hardware used, and outcome.
-
-#### Project 2: [Project Name](Project URL)
-Description of your robotics project. Key features, hardware used, and outcome.
-
-## 🧠 AI Endeavors
-
-#### Project 1: [Project Name](Project URL)
-Brief overview of your AI project. What it solves, algorithms involved, and results.
-
-#### Project 2: [Project Name](Project URL)
-Brief overview of your AI project. What it solves, algorithms involved, and results.
-
-## 🌟 Open Source Contributions
-
-Contributing to open-source AI and robotics projects is my way of giving back:
-
-- [Project Name](Project URL) - Your contribution details.
-- [Project Name](Project URL) - Your contribution details.
 
 ## 📈 GitHub Stats
 
