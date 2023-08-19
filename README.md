@@ -13,7 +13,7 @@ As a technophile with a passion for AI and Robotics, I'm on a mission to revolut
 
 - 🧠 Creating intelligent algorithms that understand and learn from data.
 - 🤖 Designing and building robots that bridge the digital and physical realms.
-- 🎓 B.Sc's in EEE with a focus on Robotics, Machine Learning, AI.
+- 🎓 B.Sc's in EEE with a focus on Robotics, Machine Learning & AI.
 
 
 ## 📈 GitHub Stats
