@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Banner Image/Header -->
-![Header](https://your-image-url.com/banner-image.png)
+![Header](file:///home/hmb/Pictures/960x0.webp)
 
 # Greetings, fellow tech explorer! 👋 I'm h.m.badhon.
 
