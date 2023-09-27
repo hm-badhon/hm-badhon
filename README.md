@@ -4,7 +4,8 @@
 
 # Greetings, fellow tech explorer! 👋 I'm h.m.badhon.
 
-Trainee Robotics Engineer | Bringing Dreams to Life through Code and Machines
+Associate Robotics Engineer,
+| Bringing Dreams to Life through Code and Machines
 
 ## 🚀 About Me
 
