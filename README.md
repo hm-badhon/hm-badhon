@@ -48,7 +48,6 @@ I'm a passionate technophile with a deep interest in **Artificial Intelligence**
 
 ![Metrics](https://metrics.lecoq.io/hm-badhon)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hm-badhon/contributions?format=svg&private=true)
 
 ---
 
