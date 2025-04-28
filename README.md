@@ -44,11 +44,6 @@ I'm a passionate technophile with a deep interest in **Artificial Intelligence**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hm-badhon&show_icons=true&count_private=true&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hm-badhon&theme=default)
-
-![Metrics](https://metrics.lecoq.io/hm-badhon)
-
-
 ---
 
 ## 👨‍💻 Tech Stack
